@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href=" css/style.css">
+    <title>Spicy Hut Restraraunt in Bangalore</title>
+   
+</head>
+
+<body>
+   <div class="landing">
+    <header>
+        <a href="index.html"id="logo"><h2> </h2>Spicy Hut</a>
+        <nav>
+            <a href="">Menu</a>
+            <a href="">Location</a>
+
+        </nav>
+    </header>
+   </div>
+   <div class="maintext">
+    <div class="tagline1">
+        Finest Treat for your Taste Buds
+    </div>
+    <div class = "tagline2">
+        Freshest Ingredients Guranteed
+    </div>
+    <div class="callus">
+        call us @+91-9087654321----
+    </div>
+    <button>Order Online</button>
+   </div>
+   <h2 id="menuheading">Menu</h2>
+
+   <div class="menu">
+    <div class="Main Course">
+        <table>
+            <th colspan="2">Main Course</th>
+            <tr>
+                <td>Veg fried rice</td>
+                <td>&#8377 280</td>
+            </tr>
+            <tr>
+                <td>Schezwan Fried rice</td>
+                <td>&#8377 340</td>
+            </tr>
+            <tr>
+                <td>Veg biriyani</td>
+                <td>&#8377 450</td>
+            </tr>
+            <tr>
+                <td>Panner biriyani</td>
+                <td>&#8377 175</td>
+            </tr>
+            <tr>
+                <td>Schezwan Noodles</td>
+                <td>&#8377 165</td>
+            </tr>
+            <tr>
+                <td>Panner Noodles</td>
+                <td>&#8377 190</td>
+            </tr>
+
+            <div class="menu">
+                <div class="starters">
+                     <th colspan="2">Starters</th>
+            <tr>
+                <td>Pnner tikka</td>
+                <td>&#8377 280</td>
+            </tr>
+            <tr>
+                <td>Gobi 65</td>
+                <td>&#8377 340</td>
+            </tr>
+            <tr>
+                <td>Veg pakkoda</td>
+                <td>&#8377 450</td>
+            </tr>
+            <tr>
+                <td>Mirchi Bajji</td>
+                <td>&#8377 175</td>
+            </tr>
+            <tr>
+                <td>Vada pav</td>
+                <td>&#8377 165</td>
+            </tr>
+            <tr>
+                <td>Raj Kachori</td>
+                <td>&#8377 190</td>
+            </tr>
+
+                    
+            <div class="menu">
+                <div class="Chats">
+                    <th colspan="2">Chats</th>
+                    <tr>
+                        <td>Masal bhoori</td>
+                        <td>&#8377 280</td>
+                    </tr>
+                    <tr>
+                        <td>Bhel poori</td>
+                        <td>&#8377 340</td>
+                    </tr>
+                    <tr>
+                        <td>Dahi poori</td>
+                        <td>&#8377 450</td>
+                    </tr>
+                    <tr>
+                        <td>Pani poori</td>
+                        <td>&#8377 175</td>
+                    </tr>
+                    <tr>
+                        <td>Samosaa</td>
+                        <td>&#8377 165</td>
+                    </tr>
+                    <tr>
+                        <td>Masal vadai</td>
+                        <td>&#8377 190</td>
+                    </tr>
+
+            
+        </table>
+    </div>
+   </div>
+   <h2 id="locheading">Locations</h2>
+   
+   <div class="locations">
+   <div class ="Velacherry">
+    <h2>Velacherry</h2>
+    <address>
+        5,3rd cross road,<br>
+        vijiya nagar,</br>
+        velacherry,</br>
+        Chennai-600103.
+    </address>
+</div>
+<div class ="locations">
+    <div class ="Karur">
+        <h2>Karur</h2>
+        <address>
+            5,3rd cross road,<br>
+            Ajith nagar,</br>
+            karur,</br>
+            Tamilnadu-639004.
+        </address>
+    </div>
+   </div>
+<footer>
+    <div id="copyright">&#169 copyright Spicy Hut</div>
+</footer>
+</body>
+</html>
